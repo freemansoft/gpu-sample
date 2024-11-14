@@ -1,5 +1,5 @@
 specVersion: v2
-specMinorVersion: 1
+specMinorVersion: 2
 meta:
   name: gpu-sample
   image: project-gpu-sample
@@ -45,7 +45,7 @@ environment:
       stop_command: jupyter lab stop 8888
       user_msg: ""
       logfile_path: ""
-      timeout_seconds: 0
+      timeout_seconds: 60
       icon_url: ""
       webapp_options:
         autolaunch: true
@@ -64,7 +64,7 @@ environment:
       stop_command: pkill tensorboard
       user_msg: ""
       logfile_path: ""
-      timeout_seconds: 0
+      timeout_seconds: 60
       icon_url: ""
       webapp_options:
         autolaunch: true
