@@ -1,5 +1,6 @@
-# Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+# gpu-sample
+Playground for doing some AI Workbench Jupyter Notebook.
+Currently looking at Advent of Code 2024 Day 17 brute force
 
 ## Description
 Optional section to provide a more detailed overview of the project.
