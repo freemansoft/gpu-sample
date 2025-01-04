@@ -2,8 +2,9 @@
 Playground for doing some AI Workbench Jupyter Notebook.
 Currently looking at Advent of Code 2024 Day 17 brute force
 
-## Description
-Optional section to provide a more detailed overview of the project.
+## References
+* [CUDA C++ programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/) useful for understanding kernels, SMs, blocks, threads, etc
+* [CUDA core and SM counts in various cards](https://en.wikipedia.org/wiki/CUDA)
 
 ## Getting Started
 Optional section to summarize important steps and how to use the project & apps in the project
