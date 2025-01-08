@@ -9,3 +9,5 @@ Currently looking at Advent of Code 2024 Day 17 brute force
 ## Getting Started
 Optional section to summarize important steps and how to use the project & apps in the project
 
+## Advent of Code Day 17
+Using parallel python and GPU to solve Day 17 part 2.  It turns out GPUs were the wrong approach but parallel CPU using njit worked fine for brute force.
